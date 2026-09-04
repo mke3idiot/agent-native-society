@@ -2,6 +2,11 @@
 
 This changelog records material project evolution. It complements Git history and does not rewrite released origin documents.
 
+## 2026-09-04 — Japan-law handling gates
+
+- Created a Japan-focused primary-source legal handling baseline and three-seat operating gates for rights, personal information, claims, transactions, AI use, credentials, and specialist escalation.
+- Corrected the prior record that had mistaken GitHub's `NOASSERTION` classifier for the absence of a license; the repository contains a CC BY 4.0 notice in `LICENSE`.
+
 ## 2026-09-04 — Common-superior coordination
 
 - Corrected the communication model: seats sharing the same immediate superior may coordinate directly.

@@ -4,10 +4,11 @@ Before material work, read:
 
 1. [`context/author-context.md`](context/author-context.md)
 2. [`context/author-context-v1.1.0.md`](context/author-context-v1.1.0.md)
-3. [`philosophy/author-principles.md`](philosophy/author-principles.md)
-4. [`philosophy/decision-framework.md`](philosophy/decision-framework.md)
-5. [`context/project-intent.md`](context/project-intent.md)
-6. relevant ADRs, research, architecture, implementation, and business documents.
+3. [`context/author-context-v1.2.0.md`](context/author-context-v1.2.0.md) and [`context/author-context-v1.2.1-license-fact-correction.md`](context/author-context-v1.2.1-license-fact-correction.md)
+4. [`philosophy/author-principles.md`](philosophy/author-principles.md)
+5. [`philosophy/decision-framework.md`](philosophy/decision-framework.md)
+6. [`context/project-intent.md`](context/project-intent.md)
+7. relevant ADRs, research, architecture, implementation, and business documents.
 
 Treat this repository as the project SSOT. Preserve released origin records in meaning. Record material decisions as ADRs; distinguish source-grounded fact from hypothesis and judgment; do not make unsupported priority claims; and surface material risks or contradictions rather than merely confirming the author's view.
 
@@ -20,3 +21,7 @@ When a CEO instruction, decision, or requested record has a durable project effe
 ## CEO office destination rule
 
 `Agent Native Society — CEOオフィス` is the CEO's primary operating task. Scheduled meeting reports, questions, and handoff receipts must be delivered as ordinary assistant responses inside that task. Do not relay them through `send_message_to_thread` to a setup, parent, or other Codex task unless the CEO explicitly requests an inter-task handoff. The repository, not an internal message, remains the durable cross-session record.
+
+## Japan-law handling gates
+
+Before an action involves a third-party work, personal information, contact collection, external contribution, payment, application, contract, real-service connection, credential, regulated sector, or non-Japanese jurisdiction, read [`organization/japan-law-handling-gates-v0.1.md`](organization/japan-law-handling-gates-v0.1.md) and its linked research baseline. Do not treat disclaimers as permissions, consent, legal review, or claim substantiation. Escalate to the CEO and, where the gate requires it, a qualified professional before external action.
