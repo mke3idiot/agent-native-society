@@ -2,6 +2,11 @@
 
 This changelog records material project evolution. It complements Git history and does not rewrite released origin documents.
 
+## 2026-09-04 — Common-superior coordination
+
+- Corrected the communication model: seats sharing the same immediate superior may coordinate directly.
+- Established the CEO-direct three-seat council and ADR-0009.
+
 ## 2026-09-04 — Three-Seat Covenant
 
 - Defined Expansion as continuous new-frontier work, Preservation as adaptive integration, and Critique as proactive risk discovery.

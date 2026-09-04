@@ -6,21 +6,19 @@ Authority flows downward through the reporting line; accountability and escalati
 
 ## Horizontal communication rule
 
-Seats at the same level do not make governance, priority, budget, public-position, or scope decisions directly with one another. Those matters flow through their immediate common superior.
+Seats that share the **same immediate superior** may communicate, convene, exchange evidence, coordinate work, and form joint recommendations directly. The reporting line still determines accountability: no seat may expand another seat’s authority or make a decision reserved for their shared superior.
 
 ```text
-L3 Product domain lead ──► L2 Product office head ──► L1 EXPAND
-                                                       │
-                                                  CEO if cross-executive
-                                                       │
-L3 Operations domain lead ─► L2 Operations office head ─► L1 PRESERVE
+L3 Product domain lead ──► L2 Product office head ──► L1 EXPAND ─┐
+                                                                  ├─ direct L1 council / CEO escalation when needed
+L3 Operations domain lead ─► L2 Operations office head ─► L1 PRESERVE ─┘
 ```
 
-For two seats under the same L1 leader, their L1 leader is the decision route. For seats under different L1 leaders, each L1 leader coordinates; conflicts or constitutional material escalate to the CEO.
+For two seats under the same L1 leader, direct coordination is allowed; their L1 leader resolves decisions beyond their authority. For L1 seats, the common immediate superior is the CEO, so Expansion, Preservation, and Critique may hold a direct three-seat council. A decision that changes CEO-reserved direction, constitutional boundaries, or any seat's delegated authority escalates to the CEO.
 
 ## Allowed direct interfaces
 
-Direct lateral exchange is allowed only when it is a predeclared operational interface that does not decide policy or priority. Examples: a test result passed from an EXPAND subordinate to a CRITIQUE subordinate; a source snapshot passed from PRESERVE to CRITIQUE; a versioned capability contract consumed by an L4 service.
+Direct lateral exchange between seats with different immediate superiors is allowed only when it is a predeclared operational interface that does not decide policy or priority. Examples: a test result passed from an EXPAND subordinate to a CRITIQUE subordinate; a source snapshot passed from PRESERVE to CRITIQUE; a versioned capability contract consumed by an L4 service.
 
 Every direct interface must have:
 
@@ -31,6 +29,10 @@ Every direct interface must have:
 - a parent-seat-approved interface contract.
 
 This prevents hierarchy from becoming a communication bottleneck while keeping decision authority legible.
+
+## Three-seat council
+
+The three L1 seats may convene directly because all report to the CEO. The council's job is to connect new frontiers, integration requirements, and risk findings; identify cross-seat dependencies; and prepare clear options for the CEO. Its record must distinguish: decisions each seat can execute under existing delegation, joint recommendations, unresolved disagreements, and CEO decisions required.
 
 ## Executive responsibilities
 

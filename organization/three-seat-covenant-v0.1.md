@@ -17,7 +17,7 @@ or redesigns the seats/interfaces required to sustain it
 The strengthened system creates a safer base for the next expansion
 ```
 
-The cycle is not a one-way approval pipeline. PRESERVE may surface maintenance constraints to EXPAND; CRITIQUE may identify opportunities created by a risk; EXPAND may discover that a current asset should be retired. Governance and priority decisions still follow the reporting hierarchy.
+The cycle is not a one-way approval pipeline. PRESERVE may surface maintenance constraints to EXPAND; CRITIQUE may identify opportunities created by a risk; EXPAND may discover that a current asset should be retired. Because all three seats report directly to the CEO, they may convene and coordinate directly; CEO-reserved decisions still escalate.
 
 ## Seat commitments
 
