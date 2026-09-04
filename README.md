@@ -28,6 +28,10 @@ Agent Native Society                 the society sought
 - [Market landscape](landscape/2026-09-04.md)
 - [Origin record — 2026-09-04](origins/2026-09-04.md)
 
+## Working as a project SSOT
+
+This repository is the SSOT for this project's thought, research, business hypotheses, specifications, implementation, and material decisions. Start an informed collaboration with the [author context](context/author-context.md), [author principles](philosophy/author-principles.md), [decision framework](philosophy/decision-framework.md), [project intent](context/project-intent.md), and [decision records](decisions/). Current open questions and an independent strategic assessment are in [research/](research/). See [history](history/CHANGELOG.md) for material evolution.
+
 ## Record integrity
 
 Published origin documents are immutable in meaning. Corrections, extensions, and changes of view are added as new, dated, versioned files; they are not silent rewrites of prior records. See [VERSIONING.md](VERSIONING.md).

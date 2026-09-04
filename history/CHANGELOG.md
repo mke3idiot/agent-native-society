@@ -1,0 +1,15 @@
+# Changelog
+
+This changelog records material project evolution. It complements Git history and does not rewrite released origin documents.
+
+## 2026-09-04 — Context and SSOT layer
+
+- Added author principles, decision framework, future assumptions, and Codex collaboration context.
+- Adopted repository-as-SSOT through ADR-0001.
+- Added open questions, strategic assessment, and ARCG reference-implementation brief.
+
+## 2026-09-04 — Founding record (`v2026.09.04`)
+
+- Published the initial manifesto, whitepaper, definitions, reference architecture, prior-art map, market landscape, and origin record.
+
+See [`../origins/2026-09-04.md`](../origins/2026-09-04.md) for the immutable-in-meaning founding statement.
