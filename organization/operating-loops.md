@@ -9,7 +9,7 @@ This registry connects the organizational functions to concrete loops. A loop mo
 | strategic contradiction scan | CRITIQUE / Risk, Integrity & Assurance | D1 | research or architecture change | risk/ADR draft | decision only if material |
 | public evidence inventory | PRESERVE / Operating Systems | D1 | monthly | updated scorecard proposal | approve only disputed claims |
 | public narrative asset | EXPAND / Growth & Ecosystem | D1 | validated milestone | draft article/talk/brief | mandatory review before publication |
-| three-seat council review | EXPAND + PRESERVE + CRITIQUE | D1 | weekly scheduled Codex heartbeat | CEO Selection Brief or reversible internal draft | every Monday 09:00 JST |
+| three-seat council review | EXPAND + PRESERVE + CRITIQUE | D1 | daily bootstrap, then weekly scheduled Codex heartbeat | CEO Selection Brief or reversible internal draft | daily through 2026-09-10 JST; then Monday 09:00 JST |
 
 ## Next loops to build
 
@@ -19,6 +19,6 @@ This registry connects the organizational functions to concrete loops. A loop mo
 
 ## Autonomous council boundary
 
-The three-seat council operates under [the current autonomous council runbook](autonomous-council-runbook-v0.2.md), ADR-0010, and ADR-0012. It is deliberately review-gated: it can create evidence and proposals, but not external commitments, public publication, constitutional rewrites, or irreversible actions.
+The three-seat council operates under [the current autonomous council runbook](autonomous-council-runbook-v0.3.md), ADR-0010, ADR-0012, and ADR-0013. It is deliberately review-gated: it can create evidence and proposals, but not external commitments, public publication, constitutional rewrites, or irreversible actions.
 
 No loop becomes autonomous merely because it can be scripted. It needs a delegation level, quality gate, and exception route.
