@@ -2,6 +2,11 @@
 
 This changelog records material project evolution. It complements Git history and does not rewrite released origin documents.
 
+## 2026-09-04 — Author attribution
+
+- Recorded the directly confirmed public author name: 寺脇将大 / Masahiro Terawaki.
+- Added a dated addendum rather than modifying the Origin Record.
+
 ## 2026-09-04 — Earned authorship and business plan
 
 - Added author-context v1.1.0, explicitly recording durable public recognition as the primary outcome.

@@ -44,4 +44,4 @@ The repository begins with a research and architecture corpus. Reference impleme
 
 ## Attribution
 
-Author attribution is intentionally pending the author's confirmation of exact Japanese and Romanized name forms. No claim of being first, sole inventor, or originator is made here.
+Author: **寺脇将大 / Masahiro Terawaki**. See [AUTHORS.md](AUTHORS.md) and the dated [author-attribution record](history/2026-09-04-author-attribution.md). No claim of being first, sole inventor, or originator is made here.
