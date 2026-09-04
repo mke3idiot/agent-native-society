@@ -2,6 +2,12 @@
 
 This changelog records material project evolution. It complements Git history and does not rewrite released origin documents.
 
+## 2026-09-04 — Earned authorship and business plan
+
+- Added author-context v1.1.0, explicitly recording durable public recognition as the primary outcome.
+- Added ADR-0002 and a hypothesis-led business plan.
+- Added market signals with source/date/scope boundaries.
+
 ## 2026-09-04 — Context and SSOT layer
 
 - Added author principles, decision framework, future assumptions, and Codex collaboration context.
