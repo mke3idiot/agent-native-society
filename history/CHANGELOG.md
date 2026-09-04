@@ -2,6 +2,16 @@
 
 This changelog records material project evolution. It complements Git history and does not rewrite released origin documents.
 
+## 2026-09-04 — One purpose, expandable capabilities
+
+- Clarified that the organization has one governing purpose; roles and services expand only as subordinate capabilities.
+- Added ADR-0006.
+
+## 2026-09-04 — Company operating system
+
+- Added a CEO-led operating constitution, delegation policy, operating-loop registry, and ADR-0005.
+- Defined stable organizational functions that can scale through autonomous capabilities without adding routine management layers.
+
 ## 2026-09-04 — First executable reference implementation
 
 - Added ARCG v0.1: a transport-neutral, local governed purchase-request flow.
