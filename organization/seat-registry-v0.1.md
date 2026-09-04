@@ -23,9 +23,9 @@ L0  CEO — Masahiro Terawaki
 | ID | Seat | Mandate | Authority level | Current accountable holder | Activation state |
 |---|---|---|---|---|---|
 | CEO | Chief Executive Officer | purpose, constitutional interpretation, irreversible choices | D5 | 寺脇将大 / Masahiro Terawaki | active |
-| EXPAND | Expansion Seat / 拡張 | discover, create, and validate new capabilities, products, services, markets, and institutional opportunities that advance the purpose | D0–D2 | Codex, when engaged | active, session-operated |
-| PRESERVE | Preservation Seat / 保持 | maintain the integrity, continuity, quality, evidence, operations, and reusable assets of what has been created | D0–D2 | Codex, when engaged; source monitor for its bounded loop | active, partly automated |
-| CRITIQUE | Critique Seat / 批判 | independently challenge assumptions, identify risks and contradictions, test alternatives, and stop unsound expansion | D0–D2 | Codex, when engaged | active, session-operated |
+| EXPAND | Expansion Seat / 拡張 | continuously discover, create, and validate new frontiers: capabilities, products, services, markets, and institutional opportunities | D0–D2 | Codex, when engaged | active, session-operated |
+| PRESERVE | Preservation Seat / 保持 | integrate accepted expansion and critique learning into the existing system; maintain continuity, quality, evidence, operations, and reusable assets; propose seat changes when needed | D0–D2 | Codex, when engaged; source monitor for its bounded loop | active, partly automated |
+| CRITIQUE | Critique Seat / 批判 | assume risk is always present; actively search for system holes, contradictions, abuse paths, dependencies, and harmful incentives, then report actionable findings | D0–D2 | Codex, when engaged | active, session-operated |
 
 “Codex, when engaged” is an honest interim holder designation, not a claim that three persistent autonomous executives already exist. A seat becomes independently automated only after it has a written delegation, operating loop, quality gate, and exception path.
 
@@ -49,3 +49,5 @@ Each L1 seat may propose L2+ seats for CEO approval. A subordinate seat inherits
 | CRITIQUE | Risk, Integrity & Assurance | adversarial review, claims discipline, safety, governance, stop conditions |
 
 The L2 functions are not CEO-direct and have no independent strategy. Their parent L1 seat is accountable for their priorities and decisions.
+
+See the [Three-Seat Covenant](three-seat-covenant-v0.1.md) for the shared purpose, working cycle, and mutual-respect rule.

@@ -2,6 +2,11 @@
 
 This changelog records material project evolution. It complements Git history and does not rewrite released origin documents.
 
+## 2026-09-04 — Three-Seat Covenant
+
+- Defined Expansion as continuous new-frontier work, Preservation as adaptive integration, and Critique as proactive risk discovery.
+- Added the mutual-respect rule and ADR-0008.
+
 ## 2026-09-04 — Seat-based hierarchy
 
 - Created exactly three CEO-direct executive seats: Expansion, Preservation, and Critique.

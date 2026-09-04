@@ -42,6 +42,8 @@ The [Continuous Evidence Engine](automation/continuous-evidence-engine.md) monit
 
 The repository also serves as the operating system for the project’s intended organization: [Operating Constitution](organization/constitution-v0.1.md), [Seat Registry](organization/seat-registry-v0.1.md), [Command & Communication](organization/command-and-communication-v0.1.md), [Delegation Policy](organization/delegation-policy-v0.1.md), and [Operating Loops](organization/operating-loops.md). This is an operating model, not a claim that a legal company has been incorporated.
 
+The three CEO-direct seats operate through the [Three-Seat Covenant](organization/three-seat-covenant-v0.1.md): Expansion opens new frontiers, Preservation integrates learning, and Critique continually seeks risks—each in service of the same purpose.
+
 ## Record integrity
 
 Published origin documents are immutable in meaning. Corrections, extensions, and changes of view are added as new, dated, versioned files; they are not silent rewrites of prior records. See [VERSIONING.md](VERSIONING.md).

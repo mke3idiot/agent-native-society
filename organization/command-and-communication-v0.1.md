@@ -36,9 +36,9 @@ This prevents hierarchy from becoming a communication bottleneck while keeping d
 
 | Seat | Decides within its delegation | Must escalate |
 |---|---|---|
-| EXPAND | new research/product/service hypotheses, technical design within accepted ADRs, draft narratives and opportunity experiments | new product commitments, external deployment, public outreach, partnerships, material architecture choices |
-| PRESERVE | repository processes, reproducibility, source maintenance, routine execution loops, quality of existing assets | workflow permissions, retention policy, changes affecting constitutional records, retirement of material assets |
-| CRITIQUE | risk findings, red-team plans, alternative framing, stop/escalate recommendation | acceptance of material risk, legal/security incident response, external disclosure, changes to CEO direction |
+| EXPAND | new-frontier research/product/service hypotheses, technical design within accepted ADRs, draft narratives and opportunity experiments | new product commitments, external deployment, public outreach, partnerships, material architecture choices |
+| PRESERVE | integration of accepted proposals/findings, repository processes, reproducibility, source maintenance, seat-change proposals, quality of existing assets | workflow permissions, retention policy, changes affecting constitutional records, retirement of material assets, any L1 seat change |
+| CRITIQUE | proactive risk findings, red-team plans, alternative framing, severity classification, stop/escalate recommendation | acceptance of material risk, legal/security incident response, external disclosure, changes to CEO direction |
 
 ## CEO briefing contract
 
