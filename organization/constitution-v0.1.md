@@ -18,16 +18,13 @@ Roles, agents, services, products, and operating loops may be added only when th
 The organization keeps a stable constitutional shape as it grows:
 
 ```text
-CEO — purpose, constitutional interpretation, irreversible decisions
-  │
-  ├── AI Research Office — evidence, prior art, future signals
-  ├── AI Product & Architecture Office — specifications, reference implementations
-  ├── AI Operations Office — execution systems, quality, documentation
-  ├── AI Growth Office — evidence-based narratives and distribution assets
-  └── AI Risk & Integrity Office — security, claims, governance, red-team critique
+CEO
+  └── Three executive seats (Expansion / Preservation / Critique)
+        └── Office and domain seats
+              └── Service, agent, and operator seats
 ```
 
-These are functions, not fictional employees. A function may begin as a document and later become a workflow, agent, service, partner team, or human specialist. Growth should add capability and evidence without adding managerial layers whose sole work is relaying information.
+These are functions, not fictional employees. A function may begin as a document and later become a workflow, agent, service, partner team, or human specialist. Growth should add capability and evidence without adding managerial layers whose sole work is relaying information. There are exactly three CEO-direct seats: Expansion, Preservation, and Critique. The current seats, reporting lines, and communication rules are in the [Seat Registry](seat-registry-v0.1.md) and [Command & Communication](command-and-communication-v0.1.md).
 
 ## 3. CEO authority
 

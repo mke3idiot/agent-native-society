@@ -40,7 +40,7 @@ The [Continuous Evidence Engine](automation/continuous-evidence-engine.md) monit
 
 ## Organization operating system
 
-The repository also serves as the operating system for the project’s intended organization: [Operating Constitution](organization/constitution-v0.1.md), [Delegation Policy](organization/delegation-policy-v0.1.md), and [Operating Loops](organization/operating-loops.md). This is an operating model, not a claim that a legal company has been incorporated.
+The repository also serves as the operating system for the project’s intended organization: [Operating Constitution](organization/constitution-v0.1.md), [Seat Registry](organization/seat-registry-v0.1.md), [Command & Communication](organization/command-and-communication-v0.1.md), [Delegation Policy](organization/delegation-policy-v0.1.md), and [Operating Loops](organization/operating-loops.md). This is an operating model, not a claim that a legal company has been incorporated.
 
 ## Record integrity
 

@@ -2,6 +2,12 @@
 
 This changelog records material project evolution. It complements Git history and does not rewrite released origin documents.
 
+## 2026-09-04 — Seat-based hierarchy
+
+- Created exactly three CEO-direct executive seats: Expansion, Preservation, and Critique.
+- Placed research, product, operations, growth, and risk functions beneath those three seats.
+- Added reporting, mediated-coordination, and direct-interface rules through ADR-0007.
+
 ## 2026-09-04 — One purpose, expandable capabilities
 
 - Clarified that the organization has one governing purpose; roles and services expand only as subordinate capabilities.

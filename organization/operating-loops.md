@@ -4,11 +4,11 @@ This registry connects the organizational functions to concrete loops. A loop mo
 
 | Loop | Function | Current level | Trigger | Output | CEO involvement |
 |---|---|---:|---|---|---|
-| official-source monitoring | Research | D2 | weekly GitHub Action | draft PR with source snapshot | review substantive impact only |
-| ARCG quality | Product & Architecture | D0 | code change / manual | test result | none for passing tests; review material design changes |
-| strategic contradiction scan | Risk & Integrity | D1 | research or architecture change | risk/ADR draft | decision only if material |
-| public evidence inventory | Operations | D1 | monthly | updated scorecard proposal | approve only disputed claims |
-| public narrative asset | Growth | D1 | validated milestone | draft article/talk/brief | mandatory review before publication |
+| official-source monitoring | PRESERVE / Evidence & Continuity | D2 | weekly GitHub Action | draft PR with source snapshot | review substantive impact only |
+| ARCG quality | EXPAND / Product & Architecture | D0 | code change / manual | test result | none for passing tests; review material design changes |
+| strategic contradiction scan | CRITIQUE / Risk, Integrity & Assurance | D1 | research or architecture change | risk/ADR draft | decision only if material |
+| public evidence inventory | PRESERVE / Operating Systems | D1 | monthly | updated scorecard proposal | approve only disputed claims |
+| public narrative asset | EXPAND / Growth & Ecosystem | D1 | validated milestone | draft article/talk/brief | mandatory review before publication |
 
 ## Next loops to build
 
