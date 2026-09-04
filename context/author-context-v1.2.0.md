@@ -1,6 +1,6 @@
 # 作者コンテキスト v1.2.0 — 著者の存在を伝えるためのプル型方針
 
-**Date:** 2026-09-04  
+**Date:** 2026-09-04
 **Relationship to prior records:** [`author-context.md`](author-context.md) と [`author-context-v1.1.0.md`](author-context-v1.1.0.md) を置き換えない追加記録。配布と成果物の位置づけを明確化する。
 
 ## CEOによる目的の明確化
