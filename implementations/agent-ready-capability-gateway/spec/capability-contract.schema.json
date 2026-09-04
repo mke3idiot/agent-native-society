@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ARCG Capability Contract",
+  "type": "object",
+  "required": ["id", "providerId", "operation", "commitment", "recourse"],
+  "properties": {
+    "id": { "type": "string" },
+    "providerId": { "type": "string" },
+    "operation": { "const": "commit_purchase_request" },
+    "commitment": {
+      "type": "object",
+      "required": ["state", "sideEffect", "reversible"],
+      "properties": {
+        "state": { "const": "commit" },
+        "sideEffect": { "const": "create_purchase_request" },
+        "reversible": { "type": "boolean" }
+      }
+    },
+    "recourse": {
+      "type": "object",
+      "required": ["revokeUntil", "disputeChannel"],
+      "properties": {
+        "revokeUntil": { "type": "string" },
+        "disputeChannel": { "type": "string" }
+      }
+    }
+  }
+}

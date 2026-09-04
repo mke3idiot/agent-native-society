@@ -2,6 +2,11 @@
 
 This changelog records material project evolution. It complements Git history and does not rewrite released origin documents.
 
+## 2026-09-04 — First executable reference implementation
+
+- Added ARCG v0.1: a transport-neutral, local governed purchase-request flow.
+- Added deterministic policy tests, capability/delegation schemas, a threat model, and ADR-0004.
+
 ## 2026-09-04 — Continuous Evidence Engine
 
 - Added a weekly, review-gated GitHub Actions source monitor and its initial snapshot.

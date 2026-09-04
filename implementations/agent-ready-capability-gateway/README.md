@@ -1,6 +1,6 @@
 # Agent Ready Capability Gateway (ARCG) — implementation brief v0.1
 
-**Status:** proposed reference implementation; no production or external-service claim.
+**Status:** implemented local reference v0.1; no production or external-service claim.
 
 ## Claim under test
 
@@ -23,7 +23,7 @@ The capability contract and delegation object are canonical. A mock HTTP/API ada
 - A general agent platform, marketplace, identity provider, or production certification.
 - Claiming legal enforceability of the demonstration's authorization model.
 
-## Planned repository layout
+## Repository layout
 
 ```text
 implementations/agent-ready-capability-gateway/
@@ -33,6 +33,17 @@ implementations/agent-ready-capability-gateway/
   threat-model.md   assets, trust boundaries, attack paths, mitigations
   README.md
 ```
+
+## Run it
+
+Requires Node.js 20 or later.
+
+```bash
+npm test
+npm run demo
+```
+
+The demo first attempts a commitment without approval (denied), then approves the delegation and commits the fictional purchase request. It prints the ordered evidence ledger. The test suite also verifies over-budget, expired, revoked, and wrong-provider denial paths.
 
 ## Design constraints
 

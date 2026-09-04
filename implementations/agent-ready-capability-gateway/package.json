@@ -1,0 +1,14 @@
+{
+  "name": "agent-ready-capability-gateway",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A transport-neutral reference implementation for governed agent-mediated commitments.",
+  "scripts": {
+    "demo": "node src/demo.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
