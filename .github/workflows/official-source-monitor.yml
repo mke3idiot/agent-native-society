@@ -1,0 +1,46 @@
+name: Official source monitor
+
+on:
+  schedule:
+    - cron: "17 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  propose-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Refresh official-source snapshot
+        run: node scripts/refresh-official-sources.mjs
+
+      - name: Create draft review pull request when sources changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- research/monitoring/official-sources-latest.md; then
+            echo "No source-monitor change detected."
+            exit 0
+          fi
+
+          branch="automation/source-monitor-$(date -u +%Y%m%dT%H%M%SZ)"
+          git config user.name "agent-native-society[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add research/monitoring/official-sources-latest.md
+          git commit -m "chore(research): refresh official-source snapshot"
+          git push origin "HEAD:$branch"
+          gh pr create \
+            --base main \
+            --head "$branch" \
+            --draft \
+            --title "chore(research): review official-source changes" \
+            --body "Automated source-monitor snapshot. Review sources and add a human-authored research or decision record only if the change is substantively relevant. Do not merge solely because a hash changed."

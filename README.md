@@ -34,6 +34,10 @@ This repository is the SSOT for this project's thought, research, business hypot
 
 The current strategy is recorded as a hypothesis-led [business plan](business/business-plan-2026-v0.1.md); it defines earned authorship—not unsupported attention—as the primary outcome.
 
+## Continuous evidence
+
+The [Continuous Evidence Engine](automation/continuous-evidence-engine.md) monitors selected primary sources weekly and opens a review-gated draft PR when their snapshot changes. It keeps research maintainable without allowing unreviewed external changes to alter the public record. [Evidence scorecard](portfolio/evidence-scorecard.md).
+
 ## Record integrity
 
 Published origin documents are immutable in meaning. Corrections, extensions, and changes of view are added as new, dated, versioned files; they are not silent rewrites of prior records. See [VERSIONING.md](VERSIONING.md).

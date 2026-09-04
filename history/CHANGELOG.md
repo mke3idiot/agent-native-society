@@ -2,6 +2,11 @@
 
 This changelog records material project evolution. It complements Git history and does not rewrite released origin documents.
 
+## 2026-09-04 — Continuous Evidence Engine
+
+- Added a weekly, review-gated GitHub Actions source monitor and its initial snapshot.
+- Added the source configuration, evidence scorecard, operating guide, and ADR-0003.
+
 ## 2026-09-04 — Author attribution
 
 - Recorded the directly confirmed public author name: 寺脇将大 / Masahiro Terawaki.

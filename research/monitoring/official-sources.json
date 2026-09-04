@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "id": "mcp-specification",
+      "label": "Model Context Protocol — specification",
+      "url": "https://modelcontextprotocol.io/specification/2025-06-18"
+    },
+    {
+      "id": "a2a-specification",
+      "label": "A2A Protocol — latest specification",
+      "url": "https://a2a-protocol.org/latest/specification/"
+    },
+    {
+      "id": "ucp-announcements",
+      "label": "Universal Commerce Protocol — announcements",
+      "url": "https://ucp.dev/documentation/announcements/"
+    },
+    {
+      "id": "eu-ai-act",
+      "label": "EU AI Act — official text",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj?locale=en"
+    }
+  ]
+}
