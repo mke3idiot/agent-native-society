@@ -16,3 +16,7 @@ For external facts, use primary sources and record date and scope. For new imple
 ## CEO office handoff protocol
 
 When a CEO instruction, decision, or requested record has a durable project effect, follow [`organization/session-to-repository-handoff-protocol-v0.1.md`](organization/session-to-repository-handoff-protocol-v0.1.md). Do not describe a change as recorded until the artifact has been written, read back for verification, and committed to Git. Report the path, verification performed, and commit identifier as a handoff receipt. Questions and exploratory discussion are not silently written to the repository; ask or state clearly when no durable record is warranted.
+
+## CEO office destination rule
+
+`Agent Native Society — CEOオフィス` is the CEO's primary operating task. Scheduled meeting reports, questions, and handoff receipts must be delivered as ordinary assistant responses inside that task. Do not relay them through `send_message_to_thread` to a setup, parent, or other Codex task unless the CEO explicitly requests an inter-task handoff. The repository, not an internal message, remains the durable cross-session record.
